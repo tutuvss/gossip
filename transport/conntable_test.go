@@ -7,11 +7,11 @@ import (
 )
 
 import (
-	"github.com/stefankopieczek/gossip/base"
-	"github.com/stefankopieczek/gossip/log"
-	"github.com/stefankopieczek/gossip/parser"
-	"github.com/stefankopieczek/gossip/testutils"
-	"github.com/stefankopieczek/gossip/timing"
+	"github.com/tutuvss/gossip/base"
+	"github.com/tutuvss/gossip/log"
+	"github.com/tutuvss/gossip/parser"
+	"github.com/tutuvss/gossip/testutils"
+	"github.com/tutuvss/gossip/timing"
 )
 
 var c_LOG_LEVEL = log.WARN

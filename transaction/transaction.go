@@ -5,10 +5,10 @@ import (
 	"time"
 
 	"github.com/discoviking/fsm"
-	"github.com/stefankopieczek/gossip/base"
-	"github.com/stefankopieczek/gossip/log"
-	"github.com/stefankopieczek/gossip/timing"
-	"github.com/stefankopieczek/gossip/transport"
+	"github.com/tutuvss/gossip/base"
+	"github.com/tutuvss/gossip/log"
+	"github.com/tutuvss/gossip/timing"
+	"github.com/tutuvss/gossip/transport"
 )
 
 // Generic Client Transaction

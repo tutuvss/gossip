@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/stefankopieczek/gossip/base"
-	"github.com/stefankopieczek/gossip/log"
-	"github.com/stefankopieczek/gossip/parser"
+	"github.com/tutuvss/gossip/base"
+	"github.com/tutuvss/gossip/log"
+	"github.com/tutuvss/gossip/parser"
 )
 
 type connection struct {
